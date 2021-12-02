@@ -1,8 +1,12 @@
 * {
-  font-family: Roboto, sans-serif;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
-@import "var";
-@import "fonts";
-@import "main";
-@import "media";
+@import "base/var";
+@import "base/fonts";
+@import "base/mixin";
+@import "base/animation";
+@import "base/main";
+@import "base/media";

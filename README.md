@@ -1,2 +1,4 @@
-Gupl teplate for start
-ver. 1.0
+## Vladimir Shilov
+
+**My Gulp template**  
+ver. 1.1
